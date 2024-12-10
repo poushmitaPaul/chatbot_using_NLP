@@ -1,7 +1,7 @@
 # chatbot_using_NLP
 Implementation of a chatbot using NLP
 
-Welcome to the **Implementation of Chatbot** project! This chatbot is designed to interact with users based on intents, powered by **Natural Language Processing (NLP)**. The application uses machine learning techniques to understand user queries and provide meaningful responses.
+Welcome to the **Intents of Chatbot** project! This chatbot is designed to interact with users based on intents, powered by **Natural Language Processing (NLP)**. The application uses machine learning techniques to understand user queries and provide meaningful responses.
 
 ---
 
